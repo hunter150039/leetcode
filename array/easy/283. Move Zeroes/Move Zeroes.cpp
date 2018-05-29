@@ -12,8 +12,6 @@ public:
         }
         while(j<nums.size()){
             nums[j++]=0;
-        }
-
-            
+        } 
     }
 };
