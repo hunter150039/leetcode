@@ -27,6 +27,5 @@
        
        return false;
 ```
-3.
 
 
